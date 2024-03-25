@@ -25,3 +25,9 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 A engenharia de requisitos e o termo usado para descrever as atividades relacionadas a investigacao e definicao de escopo de um sistema de um software, metodo sistematico de desenvolvimento de requitos atraves de um processo cooperativo de analise onde os resultados das observacoes sao codificados em uma variedade de formatos e a acuracia das observacoes e constantemente verificado, sendo um processo de descobrir, analisar, documentar, e verificar as funcoes e restricoes do sistema.
 
 ![engenharia de requisitos](https://www.devmedia.com.br/imagens/engsoft/artigo6/image05.jpg)
+
+Aqui estao alguns exemplos praticos:
+
+* Entrevistas com Stakeholders: Realizar entrevistas com clientes, usuarios finais e outras partes interessadas para entender suas necessidades e expectativas em relacao ao sistema.
+
+*  Workshops de Requi
