@@ -41,14 +41,12 @@ Aqui estao alguns exemplos praticos:
 
   ![engenharia de requisitos](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png)
 
-  Caso de Uso	Descrição	Atores	Pré-condições	Fluxo Básico	Pós-condições
-Realizar Compra	Permite que o cliente compre produtos	Cliente	Cliente está autenticado	1. Cliente navega até o produto desejado.<br> 2. Cliente adiciona o produto ao carrinho.<br> 3. Cliente finaliza a compra.<br> 4. Sistema confirma o pedido.	Pedido é registrado no sistema.
-Gerenciar Produtos	Permite ao administrador gerenciar produtos	Administrador	Administrador está autenticado	1. Administrador acessa o painel de administração.<br> 2. Administrador visualiza a lista de produtos.<br> 3. Administrador adiciona/edita/exclui produtos.	Alterações nos produtos são refletidas no sistema.
-Processar Pagamento	Processa o pagamento da compra	Sistema de Pagamento	Cliente selecionou produtos para compra	1. Sistema solicita informações de pagamento ao cliente.<br> 2. Cliente fornece informações de pagamento.<br> 3. Sistema verifica a validade do pagamento.	Pagamento é processado e registrado.
-Esta tabela compara três casos de uso principais em um sistema de compras online. Cada caso de uso é descrito em termos de sua funcionalidade, os atores envolvidos, pré-condições necessárias, o fluxo básico de eventos e as pós-condições que resultam após a execução do caso de uso.
-
-
-
+Aspecto | Uso Tradicional | Use case 
+--------|-----------------|----------
+Abordagem | Mais linear e aopescretiva | Orientada a objetos centrada no usuario 
+Definicao | Documentacao extensa | Utilizacao de casos de uso 
+Foco | Detalhes dos requisitos e especificacoes | Comportamento do sistema em interacao com os usuarios
+Compreensao | Requisitos detalhados desde o inicio | Evolui conforme o desenvolvimento, permitindo ajustes.
 
 
 
