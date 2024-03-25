@@ -30,4 +30,14 @@ Aqui estao alguns exemplos praticos:
 
 * Entrevistas com Stakeholders: Realizar entrevistas com clientes, usuarios finais e outras partes interessadas para entender suas necessidades e expectativas em relacao ao sistema.
 
-*  Workshops de Requi
+* Workshops de Requisitos: Facilitar sessoes de trabalho com varias partes interessadas para capturar requisitos, resolver conflitos e alcancar consenso sobre as funcionalidades do sistema
+
+* Prototipagem Rapida: Criar prototips de baixa fidelidade para validar conceitos e obter feedback dos usuarios antes de iniciar o desenvolvimento completo do sistema.
+
+* Validação de Requisitos:
+  Revisões formais: Realizar revisões formais dos documentos de requisitos com stakeholders para garantir que eles atendam às necessidades.
+  Prototipagem de tela: Desenvolver protótipos de interface do usuário para validar a compreensão dos requisitos.
+  Demonstração do sistema: Mostrar aos stakeholders uma versão inicial do sistema para obter feedback.
+
+  ![engenharia de requisitos](https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png)
+ 
